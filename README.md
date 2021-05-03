@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on opensource projects on AI.
-- 📫 How to reach me: [LinkedIn](linkedin.com/in/amosh-gurung),  [Instgram](https://www.instagram.com/amosh_gurung/)
+- 📫 How to reach me: [LinkedIn](http://www.linkedin.com/in/amosh-gurung),  [Instgram](http://www.instagram.com/amosh_gurung/)
 
 <!---
 amoshgurung/amoshgurung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
