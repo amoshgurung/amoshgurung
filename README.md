@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amosh Gurung.
 - 👀 I’m interested in software development and machine learning.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on opensource projects on AI.
+- 💞️ I’m looking to collaborate on opensource projects that would help me expand my knowledge in programming.
 - 📫 How to reach me: [LinkedIn](http://www.linkedin.com/in/amosh-gurung),  [Instagram](http://www.instagram.com/amosh_gurung)
 
 <!---
